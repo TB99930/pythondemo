@@ -1,2 +1,2 @@
-# pythondemo
-Demonstration for LGIM python forum
+# Python Demo
+Demonstration for LGIM Python Forum
